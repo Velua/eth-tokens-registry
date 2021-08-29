@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="390" height="390" viewBox="0 0 390 390">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_5961" data-name="Прямоугольник 5961" width="390" height="390" rx="195" transform="translate(10 308)" fill="none"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#979797"/>
+      <stop offset="1" stop-color="#777"/>
+    </radialGradient>
+    <filter id="Контур_10388" x="-74.842" y="128.758" width="403.285" height="329.44" filterUnits="userSpaceOnUse">
+      <feOffset dy="3.031" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.031" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Контур_10389" x="-1.767" y="-76.872" width="475.873" height="418.21" filterUnits="userSpaceOnUse">
+      <feOffset dy="3.031" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3.031" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Сгруппировать_11465" data-name="Сгруппировать 11465" transform="translate(-3527 1338)">
+    <g id="Группа_масок_10" data-name="Группа масок 10" transform="translate(3517 -1646)" clip-path="url(#clip-path)">
+      <rect id="Прямоугольник_5960" data-name="Прямоугольник 5960" width="386" height="386" transform="translate(13 309)" fill="none"/>
+      <g id="Сгруппировать_11464" data-name="Сгруппировать 11464" transform="translate(-154.104 405.41) rotate(-30)">
+        <g transform="matrix(0.87, 0.5, -0.5, 0.87, 190.82, -2.31)" filter="url(#Контур_10388)">
+          <path id="Контур_10388-2" data-name="Контур 10388" d="M93.689,0C117.076,54.477,169.211,69.007,203.2,64.678a106.492,106.492,0,0,0,52.045-21.083l97.287,26.775c-35.161,52.166-93.478,81.588-149.249,84.769-49.166,3.488-105.571-13.152-148.171-54.676A195.916,195.916,0,0,1,0,.943Z" transform="translate(12.04 135.57) rotate(29.66)" stroke="rgba(0,0,0,0)" stroke-width="1.01" fill="url(#radial-gradient)"/>
+        </g>
+        <g transform="matrix(0.87, 0.5, -0.5, 0.87, 190.82, -2.31)" filter="url(#Контур_10389)">
+          <path id="Контур_10389-2" data-name="Контур 10389" d="M103.243,235.4l-99.129.988A223.951,223.951,0,0,1,0,196.033c0-56.121,22.82-105.386,58.1-139.4C93.193,21.233,145-1.039,199.95.037c61.061,1.131,107.885,30.88,134.136,58.039,33.555,33.437,56.4,82.217,56.4,137.841a213.2,213.2,0,0,1-3.719,38.394Zm-7.386-74.85,199.058.586a104.768,104.768,0,0,0-39.047-51.9,106.035,106.035,0,0,0-56.393-19.1c-23.06-.764-43.176,5.242-62.666,17.633C122.5,117.443,105.987,133.006,95.856,160.55Z" transform="translate(124.98 -70.12) rotate(29.66)" fill="#7fffd4" stroke="rgba(0,0,0,0)" stroke-width="1.01"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
